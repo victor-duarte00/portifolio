@@ -44,7 +44,7 @@ function Projetos() {
             <Frame>
               <img src={Node}/>
             </Frame>
-            <H1>Api</H1>
+            <H1>API</H1>
             <a href="https://github.com/victor-duarte00/code-club-first-project-node">
               <Button>GitHub</Button>
             </a>
