@@ -4,10 +4,12 @@ export const Container = styled.div`
     display:flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column; 
     gap: 50px;
+
     height: 100%;
     min-height: 100vh;
+
     background-color: #181A1E;
     background-repeat: no-repeat;
     background-size: auto; 
@@ -17,7 +19,17 @@ export const Title = styled.h1`
     color: rgb(119,136,153);
     font-size: 50px;
     text-shadow: black 0.1em 0.1em 0.2em;
-    margin-top: 100px; 
+    margin-top: 50px; 
+
+    @media screen and (max-width: 1000px){
+       
+       margin-top: 100px;   
+   }
+
+   @media screen and (max-width: 375px){
+       
+       margin-top: 100px;   
+   }
 
 `
 
@@ -87,7 +99,3 @@ export const Image = styled.img`
     width: 100px;
     height: 100px;
 `;
-
-
-
-

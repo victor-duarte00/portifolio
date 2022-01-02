@@ -21,11 +21,16 @@ export const Title = styled.h1`
     color: rgb(119,136,153);
     font-size: 50px;
     text-shadow: black 0.1em 0.1em 0.2em;
-    margin-top: 150px; 
+    margin-top: 155px; 
+    
+    @media screen and (max-width: 1000px){
+       
+       margin-top: 100px;   
+   }
 
     @media screen and (max-width: 375px){
        
-        margin-top: 15px;   
+        margin-top: 100px;   
     }
 
 `

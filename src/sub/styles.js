@@ -25,7 +25,7 @@ export const LogoStyled = styled.div`
     h1{
         margin-left: 70px;
         color: rgb(119,136,153);
-        font-size: 50px;
+        font-size: 2.4rem;
         text-shadow: black 0.1em 0.1em 0.2em;
     }
 `;
@@ -83,7 +83,7 @@ export const MenuStyled = styled.ul`
     position: fixed;
     z-index: 4;
     background-color: #181A1E;
-    top: 70px;
+    top: 60px;
     overflow: hidden;
     height: 30%;
     width: 100%;

@@ -1,5 +1,4 @@
 import styled from "styled-components"
-
 export const Container = styled.div`
     display:flex;
     justify-content: center;
@@ -32,10 +31,16 @@ export const Title = styled.h1`
    font-size: 50px;
    margin-bottom: 40px;
    text-shadow: black 0.1em 0.1em 0.2em;
+   
+   @media screen and (max-width: 1000px){
+     
+     margin-top: 100px;
+        
+     }
 
    @media screen and (max-width: 375px){
      
-    margin-top: 20px;
+    margin-top: 100px;
        
     }
      
@@ -99,4 +104,3 @@ export const Image = styled.img`
         
 }
 `;
-

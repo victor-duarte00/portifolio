@@ -29,6 +29,9 @@ function Header() {
             </MenuContentStyled>
             <MenuStyled show = {show}>
                 <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
                     <a href="/projetos">Projetos</a>
                 </li>
                 <li>
