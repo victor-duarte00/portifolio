@@ -24,3 +24,11 @@ Utilizei a bibliótica React Router DOM para Criar as rotas entre os arquivos do
 <p align="center">
   <img src="https://github.com/victor-duarte00/portifolio/blob/master/src/assets/imgSite.PNG" width="1000px">
  </p>
+ 
+ <p align="center">
+  <img src="https://github.com/victor-duarte00/portifolio/blob/master/src/assets/imgProjects.PNG" width="1000px">
+ </p>
+ 
+ <p align="center">
+  <img src="https://github.com/victor-duarte00/portifolio/blob/master/src/assets/imgContacts.PNG" width="1000px">
+ </p>
