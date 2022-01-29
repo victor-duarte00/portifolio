@@ -27,7 +27,7 @@ function Projetos() {
               <img src={Reactimg}/>
             </Frame>
             <H1>Portifólio</H1>
-              <a href="https://github.com/victor-duarte00/meuPortifolio">
+              <a href="https://github.com/victor-duarte00/portifolio">
                 <Button>GitHub</Button>
               </a>
         </BodyCard>
